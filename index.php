@@ -11,7 +11,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td><?php include 'topbar.php';?></td>
+    <td><?php include 'topbar.php';?>a</td>
   </tr>
   <tr>
     <td><?php include 'header.php';?></td>
